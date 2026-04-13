@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
+  - title: "Bursary"
+    url: /Bursary/
+  - title: "Golf Calgary"
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Golf Saskatoon"
+    url: /about/  
+  - title: "Xmas Social"
+    url: /posts/
+  - title: "Other"
+    url: /posts/
+  - title: "News"
+    url: /news/
