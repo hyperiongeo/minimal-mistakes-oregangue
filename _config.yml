@@ -57,35 +57,32 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Corey Hooge"
-  #avatar : "/assets/images/bio-photo.jpg"
-  #bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+# author:
+#   name   : "Corey and Tracy"
+#   #avatar : "/assets/images/bio-photo.jpg"
+#   #bio    : "My awesome biography constrained to a sentence or two goes here."
+#   links:
+#     - label: "Linkedin"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/groups/4250430"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://www.instagram.com/saskgangue?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       url: https://www.facebook.com/share/g/1FChz3FVqb/
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/groups/4250430"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/saskgangue?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: https://www.facebook.com/share/g/1FChz3FVqb/
 
 defaults:
   # _posts
