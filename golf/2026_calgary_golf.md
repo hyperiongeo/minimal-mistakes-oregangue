@@ -1,11 +1,8 @@
 ---
 permalink: /golf-calgary/
-title: "Golf Calgary"
+title: "2026 Annual U of S Ore Gangue Alumni Mashers Golf Tournament"
 layout: single
 ---
-
-# 2026 Annual U of S Ore Gangue Alumni Mashers Golf Tournament
-
 
 Date
 
@@ -49,4 +46,6 @@ Mulligans can be purchased day of event or in advance! Last year we raised $1500
 ​
 Over $22,000 raised from mulligans has been donated back to the U of S Michael D. Welch Memorial Book Prize and over $41,000 has been raised and donated back to the U of S Ore Gangue Alumni Fund. 
 
-​
+​<button name="reg" onclick="https://donate.usask.ca/online/artsandscience.php?fund_code=GEOLDEPT"REGISTRATION></button>
+
+​<button name="sposors" onclick="https://donate.usask.ca/online/artsandscience.php?fund_code=GEOLDEPT"Sponsorship Opportunities></button>
