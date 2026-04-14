@@ -1,6 +1,7 @@
 ---
 #permalink: /about/
 title: "BURSARY FUND"
+layout: page
 ---
 # BURSARY FUND
 

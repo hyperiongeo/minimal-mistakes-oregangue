@@ -1,13 +1,13 @@
 main:
   - title: "Bursary"
-    url: /bursary/bursary.html
+    url: /bursary/bursary.md
   - title: "Golf Calgary"
-    url: /golf/2026_calgary_golf.html
+    url: /golf/2026_calgary_golf.md
   - title: "Golf Saskatoon"
-    url: /golf/2026_saskatoon_golf.html
+    url: /golf/2026_saskatoon_golf.md
   - title: "Xmas Social"
-    url: /xmas/xmas.html
+    url: /xmas/xmas.md
   - title: "Other"
-    url: /other/other.html
+    url: /other/other.md
   - title: "News"
     url: /_posts/
