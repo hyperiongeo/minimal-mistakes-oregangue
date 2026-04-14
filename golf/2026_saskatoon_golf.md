@@ -1,5 +1,5 @@
 ---
-permalink: /stoon-golf/
+permalink: /golf-stoon/
 title: "Golf Stoon"
 layout: page
 ---

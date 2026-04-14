@@ -1,6 +1,6 @@
 ---
 permalink: /xmas-calgary/
-title: "BURSARY FUND"
+title: "Christmas Social"
 layout: single
 ---
 # XMAS
