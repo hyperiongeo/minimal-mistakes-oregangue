@@ -1,7 +1,7 @@
 ---
 permalink: /bursary/
 title: "BURSARY FUND"
-layout: page
+layout: default
 ---
 # BURSARY FUND
 

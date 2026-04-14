@@ -1,7 +1,7 @@
 ---
-#permalink: /golf-calgary/
+permalink: /golf-calgary/
 title: "Golf Calgary"
-layout: page
+layout: default
 ---
 
 # 2026 Annual U of S Ore Gangue Alumni Mashers Golf Tournament
