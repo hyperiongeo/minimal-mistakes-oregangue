@@ -112,3 +112,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+#ORE GANGUE
+
+logo: "/assets/images/oregangue-logo2.gif"
+
+header:
+  overlay_color: #339933
+  overlay_image: /assets/images/IMG_0125.jpg

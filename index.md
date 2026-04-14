@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Ore Gangue Alumni Site"
+title: "Ore Gangue Alumni"
 layout: home
 author_profile: true
 ---
