@@ -8,6 +8,6 @@ main:
   - title: "Xmas Social"
     url: /xmas/xmas.html
   - title: "Other"
-    url: other.html
+    url: /other/other.html
   - title: "News"
     url: /_posts/
