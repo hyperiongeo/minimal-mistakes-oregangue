@@ -1,52 +1,61 @@
 ---
 permalink: /golf-stoon/
 title: "Golf Stoon"
-layout: page
+layout: single
 ---
 
-# 2026 Annual U of S Ore Gangue Alumni Mashers Golf Tournament
-
+# Geoscience Meets Greens Golf Tournament
 
 Date
 
-Wednesday June 17, 2026
+Friday, September 12, 2025
 
 ​
 
 Cost 
 
-Early Bird (until May 19) - $170
+Regular Price - $150 per golfer - includes green fees, cart, steak dinner, drink ticket, prizes, and swag.
 
-Regular - $180 (new registrations close June 10)
+Dinner-only and breakfast-only options available 
 
 ​
 
 Times
 
-11:30 to 1:00 pm for Registration
+8:30 am - Start your day with our open breakfast at Axiom HQ — all players and guests welcome! 
 
-1:04 pm start of tee-times*
-
-Sponsored Food on the Course
-
-Banquet and Awards to follow 
+10:00 am shot-gun start
 
 ​
 
-* Note that this year we will not start off in a shotgun due to previous years low turnout.  Instead we will have individual tee times where half of the teams will start on one nine, and the other half will start on the other nine.
+​​​
+
+We’re excited to invite you to the Geoscience Meets Greens Golf Tournament, happening Friday, September 12, 2025, at Moon Lake Golf & Country Club in Saskatoon!
 
 ​
-Location
-Elbow Springs Golf Club
-240086 Lott Creek Dr, Calgary, AB
 
-T3Z 2V4
-
-
-### Mulligans for Charity
-
-Mulligans can be purchased day of event or in advance! Last year we raised $1500 for the U of S Michael D. Welch Memorial Book Prize. 
-​
-Over $22,000 raised from mulligans has been donated back to the U of S Michael D. Welch Memorial Book Prize and over $41,000 has been raised and donated back to the U of S Ore Gangue Alumni Fund. 
+This event is presented in partnership with Axiom Group + Saskatoon Geoscience Discussion Group (SGDG) + Ore Gangue Alumni. 
 
 ​
+
+Skill competitions, staff prize holes, and great giveaways! 
+
+
+
+​​Shuttle service from/to Axiom HQ available​
+
+​​
+
+
+​Location
+
+Moon Lake Golf & Country Club
+
+905 Valley Rd
+
+Saskatoon
+
+
+​button doer REG
+
+
