@@ -2,7 +2,7 @@ main:
   - title: "Bursary"
     url: bursary.html
   - title: "Golf Calgary"
-    url: 2026_calgary_golf.html
+    url: /2026_calgary_golf.html
   - title: "Golf Saskatoon"
     url: 2026_saskatoon_golf.html
   - title: "Xmas Social"
