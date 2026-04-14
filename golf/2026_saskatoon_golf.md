@@ -1,7 +1,7 @@
 ---
 permalink: /golf-stoon/
 title: "Geoscience Meets Greens Golf Tournament"
-layout: single
+layout: default
 ---
 
 
