@@ -10,4 +10,4 @@ main:
   - title: "Other"
     url: other.html
   - title: "News"
-    url: /news/
+    url: /_posts/

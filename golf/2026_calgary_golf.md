@@ -1,5 +1,5 @@
 ---
-permalink: /callgary-golf/
+#permalink: /golf-calgary/
 title: "Golf Calgary"
 layout: "page"
 ---
