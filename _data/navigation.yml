@@ -1,15 +1,15 @@
 main:
-  - title: "About"
-    url: /about
   - title: "Bursary"
-    url: /bursary/
+    url: /bursary
+  - title: "Golf"
+    url: /golf
   - title: "Golf Calgary"
     url: /golf/2026_calgary_golf.md
   - title: "Golf Saskatoon"
     url: /golf/2026_saskatoon_golf.md
   - title: "Xmas Social"
-    url: /xmas/xmas.md
+    url: /xmas
   - title: "Other"
-    url: /other/other.md
+    url: /other
   - title: "News"
     url: /_posts/
