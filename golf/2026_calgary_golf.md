@@ -4,13 +4,13 @@ title: "2026 Annual U of S Ore Gangue Alumni Mashers Golf Tournament"
 layout: splash
 ---
 
-Date
+### Date
 
 Wednesday June 17, 2026
 
 ​
 
-Cost 
+### Cost 
 
 Early Bird (until May 19) - $170
 
@@ -18,7 +18,7 @@ Regular - $180 (new registrations close June 10)
 
 ​
 
-Times
+### Times
 
 11:30 to 1:00 pm for Registration
 
@@ -33,7 +33,7 @@ Banquet and Awards to follow 
 * Note that this year we will not start off in a shotgun due to previous years low turnout.  Instead we will have individual tee times where half of the teams will start on one nine, and the other half will start on the other nine.
 
 ​
-Location
+### Location
 Elbow Springs Golf Club
 240086 Lott Creek Dr, Calgary, AB
 

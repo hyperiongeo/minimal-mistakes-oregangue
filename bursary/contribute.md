@@ -1,6 +1,6 @@
 ---
 permalink: /bursary-contribute/
-title: "Bursary"
+title: ""
 layout: single
 ---
 

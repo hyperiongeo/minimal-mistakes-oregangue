@@ -1,12 +1,13 @@
 main:
   - title: "Bursary"
-    url: /bursary-contribute
-  # - title: "Golf"
-  #   subfolderitems:
-  #     - page: "Golf Calgary"
-  #       url: /golf-calgary
-  #     - page: "Golf Saskatoon"
-  #       url: /golf-stoon
+    url: /bursary-contribute/
+  - title: "Golf"
+    url: /golf/
+    subitems:
+      - page: "Golf Calgary"
+        url: /golf-calgary
+      - page: "Golf Saskatoon"
+        url: /golf-stoon
   - title: "Golf Calgary"
     url: /golf-calgary
   - title: "Golf Saskatoon"
@@ -14,7 +15,7 @@ main:
   - title: "Xmas Social"
     url: /xmas-calgary
   - title: "Other"
-    subfolderitems:
+    subitems:
       - page: "contact"
         url: /contact
       - page: "History"
