@@ -1,4 +1,6 @@
 main:
+  - title: "About"
+    url: /about.md
   - title: "Bursary"
     url: /bursary/bursary.md
   - title: "Golf Calgary"
