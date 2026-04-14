@@ -2,7 +2,12 @@ main:
   - title: "Bursary"
     url: /bursary
   - title: "Golf"
-    url: /golf
+    subfolderitems:
+      - page: "Golf Calgary"
+        url: /golf-calgary
+      - page: "Golf Saskatoon"
+        url: /golf-stoon
+
   - title: "Golf Calgary"
     url: /golf-calgary
   - title: "Golf Saskatoon"
@@ -10,6 +15,10 @@ main:
   - title: "Xmas Social"
     url: /xmas-calgary
   - title: "Other"
-    url: /other
+    subfolderitems:
+      - page: "contact"
+        url: /contact
+      - page: "History"
+        url: /history
   - title: "News"
     url: /_posts/

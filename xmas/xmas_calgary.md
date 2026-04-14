@@ -3,10 +3,10 @@ permalink: /xmas-calgary/
 title: "Christmas Social"
 layout: single
 ---
-# XMAS
-
 
 ## 41st Annual Christmas Social CALGARY 
+
+
 #### started in 1985
 
 
@@ -27,11 +27,10 @@ Event starts @ 4pm
 Organized by: Jeff Boissonneault, Brent McKercher and Holly Nixon
 
 
-Sponsors
+### Sponsors
 
-​THANK-YOU
-to last years (2025) Sponsors
+​THANK-YOU to last years (2025) Sponsors
 ​​
 
-2025 Pictures
+### 2025 Pictures
 

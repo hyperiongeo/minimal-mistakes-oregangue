@@ -1,9 +1,8 @@
 ---
-#permalink: /about/
+permalink: /contact/
 title: "Contact"
-layout: page
+layout: single
 ---
-# Contact
 
 
 CREAT UPDATE FORM

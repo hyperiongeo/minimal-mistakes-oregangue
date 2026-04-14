@@ -1,10 +1,9 @@
 ---
 permalink: /golf-stoon/
-title: "Golf Stoon"
+title: "Geoscience Meets Greens Golf Tournament"
 layout: single
 ---
 
-# Geoscience Meets Greens Golf Tournament
 
 Date
 

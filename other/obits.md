@@ -1,9 +1,8 @@
 ---
-#permalink: /about/
-title: "Contact"
-layout: page
+permalink: /obits/
+title: "Obituaries"
+layout: single
 ---
-# Obituaries
 
 
 Click on names below to see Obits for following Ore Ganguers & Profs:

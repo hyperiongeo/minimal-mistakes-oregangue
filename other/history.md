@@ -1,7 +1,7 @@
 ---
-#permalink: /about/
-title: "Contact"
-layout: page
+permalink: /history/
+title: "History"
+layout: single
 ---
 
 
