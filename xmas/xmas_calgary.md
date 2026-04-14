@@ -1,24 +1,37 @@
 ---
-#permalink: /about/
+permalink: /xmas-calgary/
 title: "BURSARY FUND"
 layout: page
 ---
-# BURSARY FUND
+# XMAS
 
 
-## Exciting News about FIELD SCHOOLS and the BURSARY Coming Soon
+## 41st Annual Christmas Social CALGARY 
+#### started in 1985
 
 
-DONATE
+Merry Christmas
 
-STATUS
+​
 
-COMMITTEE
+Thursday December 4, 2025
 
-HISTORY
+Event starts @ 4pm
 
-Mel Stauffer memorial Fund
+​
+
+@ Imperial Tap (NEW VENUE)
+
+​
+
+Organized by: Jeff Boissonneault, Brent McKercher and Holly Nixon
 
 
+Sponsors
 
-Field Schools
+​THANK-YOU
+to last years (2025) Sponsors
+​​
+
+2025 Pictures
+

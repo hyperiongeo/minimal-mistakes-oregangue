@@ -4,9 +4,9 @@ main:
   - title: "Golf"
     url: /golf
   - title: "Golf Calgary"
-    url: /golf/2026_calgary_golf.md
+    url: /golf/2026_calgary_golf.html
   - title: "Golf Saskatoon"
-    url: /golf/2026_saskatoon_golf.md
+    url: /golf/2026_saskatoon_golf.html
   - title: "Xmas Social"
     url: /xmas
   - title: "Other"

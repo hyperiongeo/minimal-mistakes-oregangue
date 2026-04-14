@@ -12,12 +12,3 @@ We have created this site to help all Alumni Members keep current with upcoming 
 
 
 Recent News  (blog)
-
-
-social media - insta, linkedin and facebook
-
-https://www.instagram.com/saskgangue?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-https://www.linkedin.com/groups/4250430
-
-https://www.facebook.com/share/g/1FChz3FVqb/
-
