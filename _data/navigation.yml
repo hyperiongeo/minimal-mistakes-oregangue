@@ -7,7 +7,6 @@ main:
         url: /golf-calgary
       - page: "Golf Saskatoon"
         url: /golf-stoon
-
   - title: "Golf Calgary"
     url: /golf-calgary
   - title: "Golf Saskatoon"

@@ -4,6 +4,16 @@ search: false
 ---
 $link-color: red;
 
+.header .imageframe img {
+  float: left;
+  margin-top: 0;
+  margin-left: 1em;
+  margin-right: 15em;
+  object-fit: cover;
+  width: 150px;
+  height: 60px;
+}
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
