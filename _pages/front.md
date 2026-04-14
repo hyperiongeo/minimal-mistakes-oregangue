@@ -21,33 +21,3 @@ https://www.linkedin.com/groups/4250430
 
 https://www.facebook.com/share/g/1FChz3FVqb/
 
-
-
-PAGES:
-HOME
-2024 reunion (dead)
-Bursary
-MOre - contribute
-	donate
-	Stauffer memorial
-	Fund
-	Status
-	History
-
-Gold - Calgary
-	Gallery
-2026 info
-2026 sponsorhip details
-
-Golf stoon
-
-xmas social
-
-stoon xmas social
-
-Otehr
--contacts
-hisoty
-obits
-
-News (Blog)

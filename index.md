@@ -1,12 +1,14 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: "Front"
 layout: home
 author_profile: true
 ---
+
 # Welcome to the Ore Gangue Alumni Site
 
 
 We have created this site to help all Alumni Members keep current with upcoming Ore Gangue Alumni Events. Please select from the sections below for more information!
+
+
+Recent News  (blog)
 
