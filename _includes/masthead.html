@@ -20,6 +20,13 @@
                 {% if link.description %} title="{{ link.description }}"{% endif %}
                 {% if link.target %} target="{{ link.target }}"{% endif %}
               >{{ link.title }}</a>
+              {% if link.submenu %}
+                <ul>
+                  {% for subitem in link.submenu %}
+                    <li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
             </li>
           {%- endfor -%}
         </ul>
