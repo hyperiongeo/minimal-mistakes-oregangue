@@ -2,7 +2,6 @@ main:
   - title: "Bursary"
     url: /bursary-contribute/
   - title: "Golf"
-    url: /golf/
     dropdown:
       - title: Calgary
         url: /golf-calgary/
@@ -18,7 +17,7 @@ main:
   - title: "Xmas Social"
     url: /xmas-calgary/
   - title: "Other"
-    children:
+    dropdown:
       - title: "contact"
         url: /contact
       - title: "History"

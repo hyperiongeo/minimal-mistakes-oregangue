@@ -1,6 +1,6 @@
 ---
 permalink: /history/
-title: "History"
+title: ""
 layout: single
 ---
 
@@ -16,10 +16,11 @@ Click the arrow to jump to History Of the Ore Gangue written by Nancy McKellar a
 
 
 ## History of the Ore Gangue
-​### by Nancy McKellar (2012) 
+
+### by Nancy McKellar (2012)
 
 
-Ore Gangue.  For graduates of the University of Saskatchewan’s Geology Department these two words do not conjure up piles of slag left over from the mining of valuable minerals, but rather, a student society that was the source of camaraderie and not a small amount of beer drinking while at university.  The Ore Gangue is the oldest undergraduate society on the U of S campus.  On January 18, 1934 a group of students gathered to form a geological club.  A committee was formed to draw up a constitution and decide on a name for the club.  The first regular meeting was held on January 23, 1934 and the name “Ore Gangue” was adopted.  However, in a letter dated April 9, 1932, geology undergraduate Melvyn Thompson writes to his family that “I was out to a banquet and dance the Monday night previous to Easter.  It was a function of “Ore Gangue” held at the King George Hotel.  Only members and their lady friends and officials were there 25 couples, so you see it was quite an exclusive affair.”  We can infer that the geology students were socializing outside of classes for some time before the official incorporation of the club.  Either way, the Ore Gangue has a long and proud history for geology students at the University of Saskatchewan. 
+**Ore Gangue.**  For graduates of the University of Saskatchewan’s Geology Department these two words do not conjure up piles of slag left over from the mining of valuable minerals, but rather, a student society that was the source of camaraderie and not a small amount of beer drinking while at university.  The Ore Gangue is the oldest undergraduate society on the U of S campus.  On January 18, 1934 a group of students gathered to form a geological club.  A committee was formed to draw up a constitution and decide on a name for the club.  The first regular meeting was held on January 23, 1934 and the name “Ore Gangue” was adopted.  However, in a letter dated April 9, 1932, geology undergraduate Melvyn Thompson writes to his family that “I was out to a banquet and dance the Monday night previous to Easter.  It was a function of “Ore Gangue” held at the King George Hotel.  Only members and their lady friends and officials were there 25 couples, so you see it was quite an exclusive affair.”  We can infer that the geology students were socializing outside of classes for some time before the official incorporation of the club.  Either way, the Ore Gangue has a long and proud history for geology students at the University of Saskatchewan. 
  
 Starting in 1937, the Ore Gangue put out a yearly publication, The Concentrates, which highlighted the previous year’s activities and achievements.  As well, that year saw the formation of an alumni group of Ore Gangue graduates, a group that remains strong and active to this day.  For the Golden Jubilee of the University of Saskatchewan in 1959, The Concentrates put out an expanded version recording the history of the Geology Department, including the activities of the Ore Gangue.  As well, the 1984 issue of The Concentrates, the 50th Anniversary of the Ore Gangue, contains much valuable information.  Much of the history summarized here comes from those issues of The Concentrates.  In addition, the University of Saskatchewan Archives has several boxes of Ore Gangue material, including the minutes of meetings from 1934-64 and many photographs.  Both The Concentrates and the Archives were rich sources of material for this article.  Finally, many Ore Ganguers graciously responded to my emailed questions and/or met me for coffee and shared their stories and memories of their time at U of S. 
  
@@ -68,34 +69,26 @@ Note: Names have been largely omitted from this article to protect the innocent.
 
 ​
 
-###References 
+### References 
  
-Archives of the University of Saskatchewan.  Two boxes of material including Ore Gangue 
-minutes from 1934-64 and many photos. 
+Archives of the University of Saskatchewan.  Two boxes of material including Ore Gangue minutes from 1934-64 and many photos. 
  
-The Concentrates, 1958-59 (expanded version for the Golden Jubilee of the University of 
-Saslatchewan), Ore Gangue Yearbook, Geology Department, University of Saskatchewan. 
+The Concentrates, 1958-59 (expanded version for the Golden Jubilee of the University of Saslatchewan), Ore Gangue Yearbook, Geology Department, University of Saskatchewan. 
  
-The Concentrates, 1968-69, Ore Gangue Yearbook, Geology Department, University of 
-Saskatchewan.  
+The Concentrates, 1968-69, Ore Gangue Yearbook, Geology Department, University of Saskatchewan.  
  
-The Concentrates, 1979-80, Ore Gangue Yearbook, Geology Department, University of 
-Saskatchewan. 
+The Concentrates, 1979-80, Ore Gangue Yearbook, Geology Department, University of Saskatchewan. 
  
-The Concentrates, 1983-84, Ore Gangue Yearbook (50th Anniversary Issue), Geology 
-Department, University of Saskatchewan. 
+The Concentrates, 1983-84, Ore Gangue Yearbook (50th Anniversary Issue), Geology Department, University of Saskatchewan. 
  
-The Concentrates, 1987-88, Ore Gangue Yearbook, Geology Department, University of 
-Saskatchewan. 
+The Concentrates, 1987-88, Ore Gangue Yearbook, Geology Department, University of Saskatchewan. 
  
-The Concentrates, 1998-99, Ore Gangue Yearbook, Geology Department, University of 
-Saskatchewan. 
+The Concentrates, 1998-99, Ore Gangue Yearbook, Geology Department, University of Saskatchewan. 
  
 First Western Inter-University Geological Conference Proceedings, 1965. 
  
 Simpson, Angie, 2004, 70th Anniversary of the Ore Gangue PowerPoint Presentation. 
 
- 
 Thompson, Melvyn, 1932, Letter to Family, courtesy of Ben Hollands. 
 ​
 

@@ -7,7 +7,7 @@ layout: single
 # 42st Annual Christmas Social CALGARY 
 
 
-** started in 1985 **
+**started in 1985**
 
 
 ## Date
@@ -24,7 +24,7 @@ Event starts @ 4pm
 
 ​
 
-** Organized by: Jeff Boissonneault, Brent McKercher and Holly Nixon **
+**Organized by: Jeff Boissonneault, Brent McKercher and Holly Nixon**
 
 
 ### Sponsors
