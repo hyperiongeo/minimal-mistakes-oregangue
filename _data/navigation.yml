@@ -3,28 +3,26 @@ main:
     url: /bursary-contribute/
   - title: "Golf"
     # url: /golf/
-    submenu:
-      - page: Calgary
+    children:
+      - title: Calgary
         url: /golf-calgary/
-      - page: Saskatoon
+      - title: Saskatoon
         url: /golf-stoon/
   - title: "Golf Calgary"
     url: /golf-calgary
-    submenu:
-      - page: Sponsors
-        url: /golf-calgary/
+    children:
+      - title: Sponsors
+        url:  /golf-calgary-sponsors/
+
   - title: "Golf Saskatoon"
     url: /golf-stoon
-    submenu:
-      - page: Sponsors
-        url: /golf-stoon/
   - title: "Xmas Social"
     url: /xmas-calgary
   - title: "Other"
-    subitems:
-      - page: "contact"
+    children:
+      - title: "contact"
         url: /contact
-      - page: "History"
+      - title: "History"
         url: /history
   - title: "News"
     url: /_posts/

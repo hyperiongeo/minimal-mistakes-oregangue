@@ -4,15 +4,15 @@ title: ""
 layout: single
 ---
 
-# 42st Annual Christmas Social CALGARY 
+# 41st Annual Christmas Social CALGARY 
 
 
-** started in 1985 **
+** started in 1985
 
 
 ## Date
 
-TBA for 2026
+Thursday December 4, 2025
 
 Event starts @ 4pm
 
@@ -24,15 +24,17 @@ Event starts @ 4pm
 
 ​
 
-** Organized by: Jeff Boissonneault, Brent McKercher and Holly Nixon **
+** Organized by: Jeff Boissonneault, Brent McKercher and Holly Nixon
 
 
 ### Sponsors
 
-​THANK YOU to last years (2025) Sponsors
+​THANK-YOU to last years (2025) Sponsors
 ​​
 
 ### 2025 Pictures
 
-<button onclick="window.location.href='{{ '/xmas-calgary-2025-pics/' | relative_url }}';">
-View</button>
+
+<button onclick="window.location.href='{{ '/xmas/xmas_calgary_2025_pics.html' | relative_url }}';">
+Registration
+</button>
