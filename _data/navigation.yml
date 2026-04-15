@@ -3,14 +3,14 @@ main:
     url: /bursary-contribute/
   - title: "Golf"
     url: /golf/
-    children:
+    dropdown:
       - title: Calgary
         url: /golf-calgary/
       - title: Saskatoon
         url: /golf-stoon/
   - title: "Golf Calgary"
     url: /golf-calgary/
-    children:
+    dropdown:
       - title: Sponsors
         url:  /golf-calgary-sponsors/
   - title: "Golf Saskatoon"
