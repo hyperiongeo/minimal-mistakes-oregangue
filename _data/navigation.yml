@@ -2,14 +2,14 @@ main:
   - title: "Bursary"
     url: /bursary-contribute/
   - title: "Golf"
-    dropdown:
+    sublinks:
       - title: Calgary
         url: /golf-calgary/
       - title: Saskatoon
         url: /golf-stoon/
   - title: "Golf Calgary"
     url: /golf-calgary/
-    dropdown:
+    sublinks:
       - title: Sponsors
         url:  /golf-calgary-sponsors/
   - title: "Golf Saskatoon"
@@ -17,7 +17,7 @@ main:
   - title: "Xmas Social"
     url: /xmas-calgary/
   - title: "Other"
-    dropdown:
+    sublinks:
       - title: "contact"
         url: /contact
       - title: "History"
