@@ -4,12 +4,15 @@ main:
   - title: "Golf"
     url: /golf/
     subitems:
-      - page: "Golf Calgary"
-        url: /golf-calgary
-      - page: "Golf Saskatoon"
-        url: /golf-stoon
+      - page: Calgary
+        url: /golf-calgary/
+      - page: Saskatoon
+        url: /golf-stoon/
   - title: "Golf Calgary"
     url: /golf-calgary
+    subitems:
+      - page: Sponsors
+        url: /golf-calgary/
   - title: "Golf Saskatoon"
     url: /golf-stoon
   - title: "Xmas Social"
